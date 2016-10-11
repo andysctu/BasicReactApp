@@ -1,2 +1,2 @@
-# BasicReactApp
-Boilerplate livescript React App
+# iMND2
+Personal Website
