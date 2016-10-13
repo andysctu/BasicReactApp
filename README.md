@@ -1,2 +1,2 @@
-# iMND2
-Personal Website
+# Basic React App
+Using livescript
